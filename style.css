@@ -1,7 +1,6 @@
 body {
   background-color: forestgreen;
   color: goldenrod;
-  text-shadow: 2px 2px black;
   text-align: center;
   font-family: "Times new roman", Times, serif;
 }
@@ -13,9 +12,16 @@ h1 {
   font-family: "Papyrus", Times, serif;
 }
 
-nav {
+div-1 {
   color: goldenrod;
-  text-shadow: 0px 0px;
   text-align: center;
   font-family: "Times new roman", Times, serif;
 }
+
+div-2 {
+  background-color: white;
+  color: goldenrod;
+  text-align: center;
+}
+
+## Div-1 = Navigation Bar
