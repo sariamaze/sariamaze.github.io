@@ -18,6 +18,8 @@ h1 {
   font-family: "Times new roman", Times, serif;
   margin-left: 200px;
   margin-right: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .content {
