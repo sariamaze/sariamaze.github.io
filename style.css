@@ -11,15 +11,20 @@ h1 {
   font-family: "Papyrus", Times, serif;
 }
 
-nav {
+.nav {
   background-color: goldenrod;
   color: forestgreen;
   text-align: center;
   font-family: "Times new roman", Times, serif;
 }
 
-content {
+.content {
   background-color: white;
   color: black;
   text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
