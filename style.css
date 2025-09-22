@@ -1,18 +1,19 @@
 body {
+  background-color: forestgreen;
+  color: goldenrod;
   text-align: center;
   font-family: "Times new roman", Times, serif;
 }
 
 h1 {
-  background-color: forestgreen;
-  color: goldenrod;
   text-shadow: 2px 2px black;
   text-align: center;
   font-family: "Papyrus", Times, serif;
 }
 
 nav {
-  color: goldenrod;
+  background-color: goldenrod;
+  color: forestgreen;
   text-align: center;
   font-family: "Times new roman", Times, serif;
 }
