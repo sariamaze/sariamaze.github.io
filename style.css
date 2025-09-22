@@ -16,6 +16,8 @@ h1 {
   color: forestgreen;
   text-align: center;
   font-family: "Times new roman", Times, serif;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .content {
