@@ -23,7 +23,19 @@ h1 {
   outline-style: groove;
 }
 
-a:hover {color: white;}
+<!-- Nav Links -->
+a:link, a:visited {
+  color: gray;
+}
+a:hover {
+  color: white;
+  font-style: bold;
+}
+a:active {
+  color: black;
+  font-style: bold;
+  outline-style: solid;
+}
 
 .content {
   background-color: antiquewhite;
