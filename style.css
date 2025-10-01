@@ -23,7 +23,10 @@ h1 {
   outline-style: groove;
 }
 
-a:link, a:visited {
+a:link {
+  color: gray;
+}
+a:visited {
   color: gray;
 }
 a:hover {
