@@ -28,6 +28,13 @@ h1 {
   text-align: center;
 }
 
+x {
+  text-decoration-line: line-through;
+}
+
+o {
+}
+
 .center {
   margin-left: auto;
   margin-right: auto;
