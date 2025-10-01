@@ -36,7 +36,7 @@ a:hover {
 a:active {
   color: black;
   font-style: bold;
-  outline-style: solid;
+  outline-style: dotted;
 }
 
 .content {
