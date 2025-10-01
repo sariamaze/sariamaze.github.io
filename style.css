@@ -63,6 +63,10 @@ o {
   text-align: left;
 }
 
+th {
+  text-decoration-line: underline;
+}
+
 th, td {
   padding-top: 10px;
   padding-bottom: 20px;
