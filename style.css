@@ -27,6 +27,9 @@ h1 {
   background-color: antiquewhite;
   color: black;
   text-align: center;
+  outline-style: groove;
+  width: 80%;
+  height: 80%;
 }
 
 x {
@@ -49,10 +52,6 @@ th, td {
   padding-bottom: 20px;
   padding-left: 30px;
   padding-right: 30px;
-}
-
-tr {
-  bottom-border: 1px solid #ddd;
 }
 
 img {
