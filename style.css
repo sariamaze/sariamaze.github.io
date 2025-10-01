@@ -20,6 +20,7 @@ h1 {
   margin-right: 200px;
   margin-top: 10px;
   margin-bottom: 10px;
+  outline-style: groove;
 }
 
 .content {
