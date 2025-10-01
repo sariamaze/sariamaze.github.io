@@ -23,6 +23,8 @@ h1 {
   outline-style: groove;
 }
 
+a:hover {color: white;}
+
 .content {
   background-color: antiquewhite;
   color: black;
