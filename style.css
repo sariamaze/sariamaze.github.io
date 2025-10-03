@@ -29,6 +29,7 @@ h1 {
 
 a:link {
   color: darkslategray;
+  text-decoration: none;
 }
 a:visited {
   color: darkslategray;
