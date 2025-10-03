@@ -5,10 +5,11 @@ body {
   font-family: "Times new roman", Times, serif;
 }
 
-h1 {
+.title {
   text-shadow: 2px 2px black;
   text-align: center;
   font-family: "Papyrus", Times, serif;
+  font-style: bold;
 }
 
 .nav {
