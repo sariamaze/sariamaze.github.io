@@ -89,7 +89,7 @@ th, td {
 
 .thanks {
   border: none;
-  outline-style: groove;
+  outline-style: ridge;
   color: black;
   background-color: goldenrod;
   padding: 10px 10px;
@@ -97,4 +97,11 @@ th, td {
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
+}
+.thanks:hover {
+  background-color: antiquewhite;
+}
+.thanks:after {
+  outline-style: groove;
+  background-color: antiquewhite;
 }
