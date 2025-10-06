@@ -90,6 +90,7 @@ th, td {
 .thanks {
   border: none;
   color: black;
+  background-color: goldenrod;
   padding: 15px 32px;
   text-decoration: none;
   display: inline-block;
