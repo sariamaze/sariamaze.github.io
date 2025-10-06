@@ -20,7 +20,6 @@ body {
   padding-top: 10px;
   padding-bottom: 10px;
   width: 95%;
-  height: 80%;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
@@ -89,7 +88,7 @@ th, td {
 
 .thanks {
   border: none;
-  outline-style: ridge;
+  outline-style: groove;
   outline-color: goldenrod;
   color: black;
   background-color: goldenrod;
@@ -98,21 +97,9 @@ th, td {
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
 .thanks:hover {
-  background-color: antiquewhite;
-}
-
-.thanks:after {
-  outline-style: groove;
-  outline-color: goldenrod;
-  background-color: antiquewhite;
-}
-
-.thanks:active:after {
-  outline-style: groove;
-  outline-color: goldenrod;
   background-color: antiquewhite;
 }
