@@ -89,9 +89,10 @@ th, td {
 
 .thanks {
   border: none;
+  outline-style: groove;
   color: black;
   background-color: goldenrod;
-  padding: 15px 32px;
+  padding: 10px 10px;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
