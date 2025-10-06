@@ -87,9 +87,10 @@ th, td {
   height: 40%;
 }
 
-button {
+.thanks {
   border: none;
   outline-style: ridge;
+  outline-color: goldenrod;
   color: black;
   background-color: goldenrod;
   padding: 10px 10px;
@@ -97,13 +98,21 @@ button {
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
+  transition: 0.3s;
 }
 
-button:hover {
+.thanks:hover {
   background-color: antiquewhite;
 }
 
-button:after {
+.thanks:after {
   outline-style: groove;
+  outline-color: goldenrod;
+  background-color: antiquewhite;
+}
+
+.thanks:active:after {
+  outline-style: groove;
+  outline-color: goldenrod;
   background-color: antiquewhite;
 }
