@@ -86,3 +86,14 @@ th, td {
   width: 40%;
   height: 40%;
 }
+
+.thanks {
+  border: none;
+  color: goldenrod;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: none;
+}
