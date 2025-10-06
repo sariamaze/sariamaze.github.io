@@ -87,7 +87,7 @@ th, td {
   height: 40%;
 }
 
-.thanks {
+button {
   border: none;
   outline-style: ridge;
   color: black;
@@ -98,10 +98,12 @@ th, td {
   font-size: 16px;
   margin: 4px 2px;
 }
-.thanks:hover {
+
+button:hover {
   background-color: antiquewhite;
 }
-.thanks:after {
+
+button:after {
   outline-style: groove;
   background-color: antiquewhite;
 }
