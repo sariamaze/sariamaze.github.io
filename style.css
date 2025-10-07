@@ -29,7 +29,9 @@ body {
 }
 
 .nav a {
-  padding: 2px 8px;
+  padding: 0 5px;
+  margin: 0;
+  line-height: 1;
   display: inline-block;
 }
 
