@@ -28,6 +28,11 @@ body {
   outline-color: goldenrod;
 }
 
+.nav a {
+  padding: 2px 8px;
+  display: inline-block;
+}
+
 a:link {
   color: darkslategray;
   text-decoration: none;
