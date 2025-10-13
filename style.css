@@ -108,7 +108,7 @@ th, td {
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 .thanks:hover {
