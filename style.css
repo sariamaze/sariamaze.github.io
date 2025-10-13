@@ -50,6 +50,10 @@ a:active {
   font-style: bold;
 }
 
+audio {
+  backgroun-color: DarkKhaki;
+}
+
 .content {
   background-color: antiquewhite;
   color: black;
