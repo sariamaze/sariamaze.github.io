@@ -101,6 +101,11 @@ th, td {
   height: 40%;
 }
 
+.saria {
+  width: 20%;
+  height: 20%;
+}
+
 .thanks {
   border: none;
   outline-style: groove;
