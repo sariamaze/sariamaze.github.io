@@ -1,17 +1,4 @@
-body {
-  background-color: forestgreen;
-  color: goldenrod;
-  text-align: center;
-  font-family: "Times new roman", Times, serif;
-}
-
-.title {
-  text-shadow: 2px 2px black;
-  text-align: center;
-  font-family: "Papyrus", Times, serif;
-  font-style: bold;
-}
-
+/* shared header/navbar */
 .nav {
   background-color: goldenrod;
   color: forestgreen;
@@ -35,29 +22,31 @@ body {
   display: inline-block;
 }
 
-a:link {
+.nav a:link {
   color: darkslategray;
   text-decoration: none;
 }
-a:visited {
+
+.nav a:visited {
   color: darkslategray;
 }
-a:hover {
+
+.nav a:hover {
   color: black;
 }
 
-a:active {
+.nav a:active {
   color: black;
   font-style: bold;
 }
 
-audio::-webkit-media-controls-panel {
-    background-color: DarkKhaki;
-}
 
-audio {
-    color:DarkKhaki;
-    border-radius: 20px;
+/* site structure */
+body {
+  background-color: forestgreen;
+  color: goldenrod;
+  text-align: center;
+  font-family: "Times new roman", Times, serif;
 }
 
 .content {
@@ -74,10 +63,10 @@ audio {
   margin-right: auto;
 }
 
+/* progress tracker */
 x {
   text-decoration-line: line-through;
 }
-
 o {
   background-color: yellowgreen;
   font-style: italic;
@@ -107,6 +96,7 @@ th, td {
   padding-right: 30px;
 }
 
+/* image formatting */
 .makar {
   width: 40%;
   height: 40%;
@@ -134,4 +124,14 @@ th, td {
 .thanks:hover {
   background-color: antiquewhite;
   outline-color: antiquewhite;
+}
+
+
+/* Making the audo player consistent across brower engines */
+audio::-webkit-media-controls-panel {
+    background-color: 474440;
+}
+
+audio {
+    border-radius: 20px;
 }
