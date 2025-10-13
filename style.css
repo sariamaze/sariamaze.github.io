@@ -89,6 +89,10 @@ th {
   text-decoration-line: underline;
 }
 
+tr {
+  border-right: 1px solid GainsBoro;
+}
+
 th, td {
   padding-top: 10px;
   padding-bottom: 20px;
