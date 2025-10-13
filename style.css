@@ -73,10 +73,11 @@ o {
   font-style: italic;
 }
 
-.center {
+.progress {
   margin-left: auto;
   margin-right: auto;
   text-align: left;
+  outline-style: groove;
 }
 
 th {
