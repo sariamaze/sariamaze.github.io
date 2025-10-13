@@ -50,8 +50,8 @@ a:active {
   font-style: bold;
 }
 
-audio {
-  background-color: DarkKhaki;
+audio::-webkit-media-controls-panel {
+    background-color: DarkKhaki;
 }
 
 .content {
