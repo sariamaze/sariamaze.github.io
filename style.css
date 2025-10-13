@@ -57,6 +57,7 @@ audio::-webkit-media-controls-panel {
 
 audio {
     color:DarkKhaki;
+    border-radius: 5px;
 }
 
 .content {
