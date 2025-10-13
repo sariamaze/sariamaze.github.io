@@ -21,20 +21,16 @@
   line-height: 1;
   display: inline-block;
 }
-
 .nav a:link {
   color: darkslategray;
   text-decoration: none;
 }
-
 .nav a:visited {
   color: darkslategray;
 }
-
 .nav a:hover {
   color: black;
 }
-
 .nav a:active {
   color: black;
   font-style: bold;
@@ -62,6 +58,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
 
 /* progress tracker */
 x {
@@ -95,6 +92,7 @@ th, td {
   padding-left: 30px;
   padding-right: 30px;
 }
+
 
 /* image formatting */
 .makar {
