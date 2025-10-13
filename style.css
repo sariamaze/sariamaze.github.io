@@ -45,6 +45,7 @@ a:visited {
 a:hover {
   color: black;
 }
+
 a:active {
   color: black;
   font-style: bold;
@@ -52,6 +53,10 @@ a:active {
 
 audio::-webkit-media-controls-panel {
     background-color: DarkKhaki;
+}
+
+audio {
+    color:DarkKhaki;
 }
 
 .content {
