@@ -51,6 +51,7 @@
 
 .foot a:hover {
   color: black;
+  text-shadow: 0px 0px;
 }
 
 .hide a, .hide a:link, .hide a:visited .hide a:hover {
