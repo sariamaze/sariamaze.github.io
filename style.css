@@ -133,3 +133,10 @@ audio::-webkit-media-controls-panel {
 audio {
     border-radius: 20px;
 }
+
+
+/* Standardizing links */
+a, a:link, a:visited {
+  color: blue;
+  text-decoration: none;
+}
