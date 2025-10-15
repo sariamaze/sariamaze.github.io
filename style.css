@@ -53,6 +53,12 @@
   color: black;
 }
 
+.hide a, .hide a:link, .hide a:visited .hide a:hover {
+  color: goldenrod;
+  text-decoration: none;
+  cursor: none;
+}
+
 
 /* site structure */
 body {
