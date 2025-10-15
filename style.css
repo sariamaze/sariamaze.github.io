@@ -158,7 +158,7 @@ a, a:link, a:visited {
 
 /* Making the audo player consistent across brower engines */
 audio::-webkit-media-controls-panel {
-    background-color: 474440;
+    background-color: black;
 }
 
 audio {
