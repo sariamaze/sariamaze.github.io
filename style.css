@@ -51,8 +51,8 @@
 
 .foot a:hover {
   color: black;
-  text-shadow: 10px 10px darkslategray;
 }
+
 
 /* site structure */
 body {
@@ -139,6 +139,13 @@ th, td {
 .thanks:hover {
   background-color: antiquewhite;
   outline-color: antiquewhite;
+}
+
+
+/* Standardizing links */
+a, a:link, a:visited {
+  color: blue;
+  text-decoration: none;
 }
 
 
