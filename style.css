@@ -55,9 +55,9 @@
 }
 
 .hide a, .hide a:link, .hide a:visited .hide a:hover {
-  color: goldenrod;
+  color: goldenrod !important;
   text-decoration: none;
-  cursor: none;
+  cursor: none !important;
 }
 
 
