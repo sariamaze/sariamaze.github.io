@@ -43,13 +43,14 @@
   text-shadow: 2px 2px darkslategray;
 }
 
-.foot a, a:link, a:visited {
+.foot a, .foot a:link, .foot a:visited {
   color:goldenrod;
   text-decoration:none;
   cursor: pointer;
 }
 
 .foot a:hover {
+  color: black;
   text-shadow: 10px 10px darkslategray;
 }
 
