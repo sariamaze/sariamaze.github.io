@@ -40,14 +40,17 @@
 /* shared footer */
 .foot {
   margin-top: 10px;
-  text-shadow: 2px 2px DarkGray;
+  text-shadow: 2px 2px darkslategray;
 }
 
 .foot a, a:link, a:visited {
   color:goldenrod;
   text-decoration:none;
   cursor: pointer;
+}
 
+.foot a:hover {
+  text-shadow: 10px 10px darkslategray;
 }
 
 /* site structure */
