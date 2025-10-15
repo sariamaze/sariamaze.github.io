@@ -42,10 +42,15 @@
   margin-top: 10px;
 }
 
-.foot a, a:link, a:visited {
+.foot a {
   color: goldenrod;
   text-decoration: none;
   cursor: pointer;
+}
+
+.foot a:link, a:visited {
+  color:goldenrod;
+  text-decoration:none;
 }
 
 /* site structure */
