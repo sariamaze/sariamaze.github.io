@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: red;
+	color: green;
 	font-weight: bold;
 }
 
@@ -13,12 +13,10 @@
   color: forestgreen;
   border-style: groove;
   border-color: goldenrod;
-}
-
-  font-size: 1.25rem;
   margin-bottom: 5px;
+  font-size: 1.25rem;
   padding: 0.3rem 0;
-
+}
 
 .nav a {
   display: inline-block;
