@@ -44,3 +44,9 @@ body {
   color: black;
   font-style: bold;
 }
+
+
+/* footer */
+.foot {
+  text-shadow: 2px 2px darkslategray;
+}
