@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: green;
+	color: pink;
 	font-weight: bold;
 }
 
@@ -20,6 +20,7 @@
 
 .nav a {
   display: inline-block;
+  padding: .5rem;
 }
 .nav a:link {
   color: darkslategray;
