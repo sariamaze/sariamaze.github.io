@@ -6,8 +6,9 @@ body {
 
 .content {
   background-color: antiquewhite;
+  color: black;
   text-align: left;
-  margin-left: 10px
+  padding-left: 10px
 }
 
 .nav {
