@@ -2,6 +2,8 @@ body {
   background-color: forestgreen;
   color: goldenrod;
   text-align: center;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .content {
@@ -12,6 +14,9 @@ body {
   outline-color: goldenrod;
 }
 
+.content p {
+  font-size: 1rem;
+
 
 /* navigation bar */
 .nav {
@@ -20,6 +25,10 @@ body {
   outline-style: groove;
   outline-color: goldenrod;
   padding: 3px 0px
+}
+
+.nav h3 {
+  font-size: 1.25rem;
 }
 
 .nav a {
@@ -44,4 +53,5 @@ body {
 /* footer */
 .foot {
   text-shadow: 2px 2px darkslategray;
+  font-size: 0.875rem;
 }
