@@ -4,27 +4,6 @@
 	font-weight: bold;
 }
 
-body {
-  background-color: forestgreen;
-  color: goldenrod;
-  text-align: center;
-  font-size: 16px;
-  line-height: 1.5;
-}
-
-.content {
-  background-color: antiquewhite;
-  color: black;
-  text-align: left;
-  border-style: groove;
-  border-color: goldenrod;
-  border-width: 2px;
-}
-
-.content p {
-  font-size: 1rem;
-
-
 /* navigation bar */
 .nav {
   background-color: goldenrod;
@@ -52,6 +31,28 @@ body {
   color: black;
   font-weight: bold;
 }
+
+/* body */
+
+body {
+  background-color: forestgreen;
+  color: goldenrod;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.content {
+  background-color: antiquewhite;
+  color: black;
+  text-align: left;
+  border-style: groove;
+  border-color: goldenrod;
+  border-width: 2px;
+}
+
+.content p {
+  font-size: 1rem;
 
 
 /* footer */
