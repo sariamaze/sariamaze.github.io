@@ -24,3 +24,23 @@ body {
   outline-color: goldenrod;
 }
 
+.nav a {
+  padding: 0 5px;
+  margin: 0;
+  line-height: 1;
+  display: inline-block;
+}
+.nav a:link {
+  color: darkslategray;
+  text-decoration: none;
+}
+.nav a:visited {
+  color: darkslategray;
+}
+.nav a:hover {
+  color: black;
+}
+.nav a:active {
+  color: black;
+  font-style: bold;
+}
