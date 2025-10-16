@@ -49,6 +49,6 @@ body {
 
 /* footer */
 .foot {
-  text-shadow: 2px 2px darkslategray;
+  text-shadow: 0.1rem 0.1rem darkslategray;
   font-size: 0.875rem;
 }
