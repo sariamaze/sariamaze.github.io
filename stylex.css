@@ -8,10 +8,19 @@ body {
   background-color: antiquewhite;
   color: black;
   text-align: left;
-  padding-left: 10px
+  outline-style: groove;
+  outline-color: goldenrod;
 }
 
+article {
+  outline-style: dotted;
+  outline-color: black;
+
+/* navigation bar */
 .nav {
   background-color: goldenrod;
-  color: forestgreen
+  color: forestgreen;
+  outline-style: groove;
+  outline-color: goldenrod;
 }
+
