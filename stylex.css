@@ -12,10 +12,6 @@ body {
   outline-color: goldenrod;
 }
 
-article {
-  outline-style: dotted;
-  outline-color: black;
-
 /* navigation bar */
 .nav {
   background-color: goldenrod;
