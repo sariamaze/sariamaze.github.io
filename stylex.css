@@ -19,16 +19,13 @@ body {
 
 
 /* navigation bar */
-.nav {
+.nav h3 {
+  font-size: 1.25rem;
   background-color: goldenrod;
   color: forestgreen;
   outline-style: groove;
   outline-color: goldenrod;
   padding: 3px 0px
-}
-
-.nav h3 {
-  font-size: 1.25rem;
 }
 
 .nav a {
