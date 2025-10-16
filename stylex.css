@@ -68,3 +68,13 @@ body {
 
 .content p {
   font-size: 1rem;
+
+
+/* Making the audo player consistent across brower engines */
+audio::-webkit-media-controls-panel {
+    background-color: black;
+}
+
+audio {
+    border-radius: 20px;
+}
