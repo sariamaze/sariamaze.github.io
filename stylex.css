@@ -10,8 +10,8 @@ body {
   background-color: antiquewhite;
   color: black;
   text-align: left;
-  outline-style: groove;
-  outline-color: goldenrod;
+  border-style: groove;
+  border-color: goldenrod;
 }
 
 .content p {
@@ -23,9 +23,9 @@ body {
   font-size: 1.25rem;
   background-color: goldenrod;
   color: forestgreen;
-  outline-style: groove;
-  outline-color: goldenrod;
-  padding: 3px 0px
+  border-style: groove;
+  border-color: goldenrod;
+  padding: 0.3rem 0;
 }
 
 .nav a {
@@ -43,7 +43,7 @@ body {
 }
 .nav a:active {
   color: black;
-  font-style: bold;
+  font-weight: bold;
 }
 
 
