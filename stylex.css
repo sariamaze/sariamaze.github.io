@@ -12,6 +12,10 @@ body {
   outline-color: goldenrod;
 }
 
+.center {
+  text-align: center;
+}
+
 /* navigation bar */
 .nav {
   background-color: goldenrod;
