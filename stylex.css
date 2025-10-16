@@ -1,3 +1,9 @@
+/* version indicator */
+.indicator {
+	font-weight: bold;
+	color: red;
+}
+
 body {
   background-color: forestgreen;
   color: goldenrod;
