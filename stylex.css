@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: pink;
+	color: blue;
 	font-weight: bold;
 }
 
@@ -60,6 +60,10 @@ body {
   border-style: groove;
   border-color: goldenrod;
   border-width: 2px;
+}
+
+.center {
+	text-align: center;
 }
 
 .content p {
