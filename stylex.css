@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: blue;
+	color: green;
 	font-weight: bold;
 }
 
@@ -25,6 +25,16 @@ body {
 
 
 /* navigation bar */
+.nav {
+  background-color: goldenrod;
+  color: forestgreen;
+  border-style: groove;
+  border-color: goldenrod;
+  padding: 0.3rem 0;
+}
+.nav h3 {
+  font-size: 1.25rem;
+}
 .nav a {
   display: inline-block;
 }
@@ -41,14 +51,6 @@ body {
 .nav a:active {
   color: black;
   font-weight: bold;
-}
-.nav h3 {
-  font-size: 1.25rem;
-  background-color: goldenrod;
-  color: forestgreen;
-  border-style: groove;
-  border-color: goldenrod;
-  padding: 0.3rem 0;
 }
 
 
