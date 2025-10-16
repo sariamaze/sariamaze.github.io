@@ -1,19 +1,25 @@
 /* version indicator */
 .indicator {
-	color: yellow;
+	color: blue;
 	font-weight: bold;
 }
 
 /* navigation bar */
 .nav {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
   background-color: goldenrod;
   color: forestgreen;
+}
+
   font-size: 1.25rem;
   border-style: groove;
   border-color: goldenrod;
   margin-bottom: 5px;
   padding: 0.3rem 0;
-}
+
+
 .nav a {
   display: inline-block;
 }
@@ -24,12 +30,8 @@
 .nav a:visited {
   color: darkslategray;
 }
-.nav a:hover {
+.nav a:hover, a:active  {
   color: black;
-}
-.nav a:active {
-  color: black;
-  font-weight: bold;
 }
 
 
