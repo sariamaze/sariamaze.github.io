@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: blue;
+	color: red;
 	font-weight: bold;
 }
 
@@ -11,11 +11,11 @@
   padding: 10px;
   background-color: goldenrod;
   color: forestgreen;
+  border-style: groove;
+  border-color: goldenrod;
 }
 
   font-size: 1.25rem;
-  border-style: groove;
-  border-color: goldenrod;
   margin-bottom: 5px;
   padding: 0.3rem 0;
 
@@ -53,9 +53,11 @@ body {
 }
 
 .content {
+  display: flex;
   background-color: antiquewhite;
   color: black;
   text-align: left;
+  justify-content: center;
   border-style: groove;
   border-color: goldenrod;
   border-width: 2px;
