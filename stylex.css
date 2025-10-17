@@ -8,14 +8,12 @@
 .nav {
   display: flex;
   justify-content: center;
-  padding: 10px;
   background-color: goldenrod;
   color: forestgreen;
   border-style: groove;
   border-color: goldenrod;
   margin-bottom: 5px;
   font-size: 1.25rem;
-  padding: 0.3rem 0;
 }
 
 .nav a
