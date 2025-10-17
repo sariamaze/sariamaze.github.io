@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: blue;
+	color: red;
 	font-weight: bold;
 }
 
@@ -67,14 +67,15 @@ body {
 }
 	
 .content {
-  background-color: antiquewhite;
-  color: black;
-  text-align: left;
-  justify-content: center;
-  border-style: groove;
-  border-color: goldenrod;
-  border-width: 2px;
-  padding: 10px;
+	background-color: antiquewhite;
+	color: black;
+	text-align: left;
+	justify-content: center;
+	border-style: groove;
+	border-color: goldenrod;
+	border-width: 2px;
+	padding: 2px;
+	margin:0 auto;
 }
 
 .center {
