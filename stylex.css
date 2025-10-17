@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: yellow;
+	color: pink;
 	font-weight: bold;
 }
 
@@ -47,9 +47,6 @@ audio {
 
 /* body */
 
-.text {
-	padding-left: 15px
-}
 
 body {
   background-color: forestgreen;
@@ -68,6 +65,7 @@ body {
   border-style: groove;
   border-color: goldenrod;
   border-width: 2px;
+  padding: 10px;
 }
 
 .center {
