@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: red;
+	color: goldenrod;
 	font-weight: bold;
 }
 
@@ -56,6 +56,7 @@ audio {
 	width: auto;
     display: block;
 	margin: 0 auto;
+	min-width: 300px;
 }
 
 body {
