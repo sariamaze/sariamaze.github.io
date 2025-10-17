@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: yellow;
+	color: pink;
 	font-weight: bold;
 }
 
@@ -59,6 +59,10 @@ body {
   line-height: 1.5;
 }
 
+.content img {
+  max-width: 100%;
+}
+	
 .content {
   background-color: antiquewhite;
   color: black;
