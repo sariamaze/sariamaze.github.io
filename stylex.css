@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: black;
+	color: yellow;
 	font-weight: bold;
 }
 
@@ -16,7 +16,7 @@
   font-size: 1.25rem;
 }
 
-.nav a, a:link {
+.nav a, .nav a:link {
   color: darkslategray;
   text-decoration: none;
 }
