@@ -60,7 +60,6 @@ body {
 }
 
 .content {
-  display: flex;
   background-color: antiquewhite;
   color: black;
   text-align: left;
