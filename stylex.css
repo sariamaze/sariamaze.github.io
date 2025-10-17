@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: pink;
+	color: blue;
 	font-weight: bold;
 }
 
@@ -37,6 +37,7 @@
   font-size: 0.875rem;
 }
 
+
 /* Making the audo player consistent across brower engines */
 audio::-webkit-media-controls-panel {
     background-color: 474440;
@@ -49,7 +50,13 @@ audio {
 
 
 /* body */
-
+.content img {
+	max-width: 100%;
+	height: auto;
+	width: auto;
+    display: block;
+	margin: 0 auto;
+}
 
 body {
   background-color: forestgreen;
@@ -57,10 +64,6 @@ body {
   text-align: center;
   font-size: 16px;
   line-height: 1.5;
-}
-
-.content img {
-  max-width: 100%;
 }
 	
 .content {
