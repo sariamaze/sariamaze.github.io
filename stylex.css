@@ -38,7 +38,8 @@
 
 /* Making the audo player consistent across brower engines */
 audio::-webkit-media-controls-panel {
-    background-color: black;
+    background-color: 474440;
+	color: ffffff;
 }
 
 audio {
