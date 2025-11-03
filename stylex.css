@@ -90,6 +90,14 @@ body {
 
 /* PROGRESS TRACKER */
 
+.progress {
+  background-color: Bisque;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  outline-style: groove;
+}
+
 x {
 	text-decoration: line-through;
 }
