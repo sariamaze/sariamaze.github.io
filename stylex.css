@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: blue;
+	color: yellow;
 	font-weight: bold;
 }
 
@@ -42,6 +42,10 @@
 	text-size: .5rem;
 	outline-style: groove;
 	padding-bottom: 21px;
+}
+
+.progress th {
+	text-align: center;
 }
 
 x {
