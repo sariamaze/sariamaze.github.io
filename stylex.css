@@ -1,8 +1,9 @@
 /* version indicator */
 .indicator {
-	color: purple;
+	color: red;
 	font-weight: bold;
 }
+
 
 /* navigation bar */
 .nav {
@@ -31,6 +32,24 @@
   color: black;
 }
 
+
+/* PROGRESS TRACKER */
+.progress {
+  background-color: Bisque;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  outline-style: groove;
+}
+
+x {
+	text-decoration: line-through;
+}
+
+o {
+	background-color: yellowgreen;
+	font-style: italic;
+}
 
 /* footer */
 .foot {
@@ -86,23 +105,4 @@ body {
 
 .content p {
   font-size: 1rem;
-}
-
-/* PROGRESS TRACKER */
-
-.progress {
-  background-color: Bisque;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: left;
-  outline-style: groove;
-}
-
-x {
-	text-decoration: line-through;
-}
-
-o {
-	background-color: yellowgreen;
-	font-style: italic;
 }
