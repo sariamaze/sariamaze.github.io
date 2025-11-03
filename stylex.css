@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: goldenrod;
+	color: blue;
 	font-weight: bold;
 }
 
@@ -12,6 +12,7 @@
   color: forestgreen;
   border-style: groove;
   border-color: goldenrod;
+  border-width: 2rem;
   margin-bottom: 5px;
   font-size: 1.25rem;
   font-weight: bold;
@@ -74,7 +75,7 @@ body {
 	justify-content: center;
 	border-style: groove;
 	border-color: goldenrod;
-	border-width: 2px;
+	border-width: 5rem;
 	padding: 2px;
 	margin:0 auto;
 }
