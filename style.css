@@ -1,3 +1,9 @@
+.hide a, .hide a:link, .hide a:visited .hide a:hover {
+  color: goldenrod !important;
+  text-decoration: none;
+  cursor: none !important;
+}
+
 /* shared header/navbar */
 .nav {
   background-color: goldenrod;
@@ -53,13 +59,6 @@
   color: black;
   text-shadow: 0px 0px;
 }
-
-.hide a, .hide a:link, .hide a:visited .hide a:hover {
-  color: goldenrod !important;
-  text-decoration: none;
-  cursor: none !important;
-}
-
 
 /* site structure */
 body {
