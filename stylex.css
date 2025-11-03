@@ -1,6 +1,6 @@
 /* version indicator */
 .indicator {
-	color: red;
+	color: purple;
 	font-weight: bold;
 }
 
@@ -86,3 +86,14 @@ body {
 
 .content p {
   font-size: 1rem;
+}
+
+/* PROGRESS TRACKER */
+
+x {
+	text-decoration: line-through;
+}
+
+o {
+	background-color: green;
+}
